@@ -1,8 +1,8 @@
 site_name: Omniverse Kit Cheat Sheet
 site_description: "Kurzreferenz und Notizen rund um Omniverse Kit, USD & omni.ui"
 # Passe das an, sobald das Repo existiert:
-repo_url: https://github.com/your-user/omniverse-kit-cheat-sheet
-repo_name: your-user/omniverse-kit-cheat-sheet
+repo_url: https://github.com/perfectproducts/omniverse-kit-cheat-sheet
+repo_name: perfectproducts/omniverse-kit-cheat-sheet
 
 theme:
   name: material
