@@ -16,7 +16,7 @@ nav:
   - Home: index.md
   - File Dialogs:
     - File Save Dialog: cheatsheets/file_dialog_save.md
-    - File Open Dialog: cheatsheets/file_dialog_open.md
+    #- File Open Dialog: cheatsheets/file_dialog_open.md
   - Resources:
     - Collections: cheatsheets/resources_collections.md
   
