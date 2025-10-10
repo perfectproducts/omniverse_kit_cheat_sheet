@@ -14,10 +14,12 @@ theme:
 
 nav:
   - Home: index.md
-  - File Dialogs:
-    - File Save Dialog: cheatsheets/file_dialog_save.md
-    #- File Open Dialog: cheatsheets/file_dialog_open.md
+  - UI:
+        - Dialogs:
+            - File Dialogs: cheatsheets/UI/file_dialogs.md
+            
   - Resources:
+    - AI Helpers: cheatsheets/ai_helpers.md
     - Collections: cheatsheets/resources_collections.md
   
   
