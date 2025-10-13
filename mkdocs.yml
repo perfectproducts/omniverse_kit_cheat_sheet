@@ -17,9 +17,12 @@ nav:
   - UI:
         - Dialogs:
             - File Dialogs: cheatsheets/UI/file_dialogs.md
-            
-  - Resources:
+  - Work with:
+    - Prims: cheatsheets/prims.md
+    - Python: cheatsheets/python.md
     - AI Helpers: cheatsheets/ai_helpers.md
+
+  - Resources:
     - Collections: cheatsheets/resources_collections.md
   
   
