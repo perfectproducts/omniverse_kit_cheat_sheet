@@ -15,8 +15,8 @@ theme:
 nav:
   - Home: index.md
   - UI:
-        - Dialogs:
-            - File Dialogs: cheatsheets/UI/file_dialogs.md
+        - File Dialogs: cheatsheets/UI/file_dialogs.md
+        - Viewport: cheatsheets/UI/viewport.md
   - Work with:
     - Prims: cheatsheets/prims.md
     - Python: cheatsheets/python.md
