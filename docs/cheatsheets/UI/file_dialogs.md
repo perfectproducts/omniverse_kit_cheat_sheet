@@ -20,6 +20,8 @@ if not file_exporter:
 ```
 usage
 
+[show_window() Documentation](https://docs.omniverse.nvidia.com/kit/docs/omni.kit.window.file_exporter/latest/omni.kit.window.file_exporter/omni.kit.window.file_exporter.FileExporterExtension.html#omni.kit.window.file_exporter.FileExporterExtension.show_window)
+
 ```python
 
 def export_handler(self, filename: str, dirname: str, extension: str = "", selections: List[str] = []):
