@@ -16,6 +16,7 @@ nav:
   - Home: index.md
   - UI:
         - File Dialogs: cheatsheets/UI/file_dialogs.md
+        - Popup Dialogs: cheatsheets/UI/popup_dialogs.md
         - Viewport: cheatsheets/UI/viewport.md
   - Work with:
     - Prims: cheatsheets/prims.md
