@@ -8,7 +8,7 @@ https://docs.omniverse.nvidia.com/kit/docs/omni.kit.window.popup_dialog/2.0.24/o
 
 If you need to create popup dialog widgets e.g. to display and change data there are a very convenient classes in omni.kit.window.popup_dialog to perform that with a few lines of code:
 
-![img](.\formdialog.png)
+![img](formdialog.png)
 
 ```python
 from omni.kit.window.popup_dialog import FormDialog
